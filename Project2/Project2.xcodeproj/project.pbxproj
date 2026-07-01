@@ -32,8 +32,8 @@
 		746D3CEF2FF419AD00374E0E = {
 			isa = PBXGroup;
 			children = (
-				746D3CFA2FF419AD00374E0E /* Project2 */,
 				746D3CF92FF419AD00374E0E /* Products */,
+				746D3CFA2FF419AD00374E0E /* Project2 */,
 			);
 			sourceTree = "<group>";
 		};
